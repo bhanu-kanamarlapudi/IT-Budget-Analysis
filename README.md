@@ -1,1 +1,5 @@
 # IT-Budget-Analysis
+
+This analysis aimed to provide greater visibility into budgeting and spending across business divisions and regions of a global firm. Three key datasets around budgets, forecasts, and actuals covering needs, allocated funds, and real spending were processed. Reports generated insights on the differences across projections, planning, and execution for various parts of the organization.
+
+Supporting metadata included definitions of cost elements, mapping of divisions to departments, and specification of geographic regions. By consolidating data from disparate sources into integrated reporting, stakeholders can track the efficiency of resource utilization. They can identify shortfalls in budgeting to meet forecasted needs or overruns in meeting goals within planned budgets. The standardization and consolidation of budget, planning, and spending data enable more informed decisions through comprehensive visibility for the leadership team when adjusting outlay strategies. Useful next steps would be to correlate the financial data with operational drivers and define metrics for performance tracking.
